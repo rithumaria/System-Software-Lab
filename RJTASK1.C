@@ -15,7 +15,7 @@ int fcfs()
 
     wt[0]=0;    //waiting time for first process is 0
 
-    //calculating waiting time
+    // comment
     for(i=1;i<n;i++)
     {
 	wt[i]=0;
