@@ -13,7 +13,7 @@ int fcfs()
 	scanf("%d",&bt[i]);
     }
 
-    wt[0]=0;    //waiting time for first process is 0
+    wt[0]=0;    //waiting time for first process is 
 
     // comment
     for(i=1;i<n;i++)
